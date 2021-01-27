@@ -1,3 +1,2 @@
-# Your blog
-
-This is the repository for your blog! Click *_config.yml* above to get started and fill in the details. Then click *index.md* and edit it to start creating your home page.
+# Kubernetes Best Practices: Blueprints for Building Successful Applications on Kubernetes 1st Edition
+这是图书《Kubernetes Best Practices: Blueprints for Building Successful Applications on Kubernetes》学习笔记
